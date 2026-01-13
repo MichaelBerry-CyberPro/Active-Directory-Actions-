@@ -11,4 +11,4 @@
 # Skills Learned 
 
 1) User creation
-2) 
+2) Disable User
