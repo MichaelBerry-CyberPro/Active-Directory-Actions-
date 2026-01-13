@@ -1,7 +1,7 @@
 # Active-Directory-Actions
 
 # Objectives
-1) Adjust Employees Logon Hours
+The project was to showcase different actions or events within active directory that would typically take place on a day to day basis. This project is to show mastery of these tasks.
 
 # Tools
 
@@ -12,5 +12,5 @@
 
 1) User creation
 2) Disable User
-3) PassWord Reset
+3) Password Reset
 4) 
