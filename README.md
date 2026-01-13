@@ -12,3 +12,5 @@
 
 1) User creation
 2) Disable User
+3) PassWord Reset
+4) 
