@@ -1,11 +1,13 @@
-# Active-Directory-Actions#
+# Active-Directory-Actions
 
-**Objectives**
--
+# Objectives
 
-**Tools**
+
+# Tools
+
 1) Virtualbox
 2) Windows 2019 Server
 
-**Skills Learned**
-1)Troubleshooting 
+# Skills Learned 
+
+# Troubleshooting 
