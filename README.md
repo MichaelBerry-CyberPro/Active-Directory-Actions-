@@ -11,6 +11,8 @@ The project was to showcase different actions or events within active directory 
 # Skills Learned 
 
 1) User creation
-2) Disable User
-3) Password Reset
-4) 
+2) Password Creation
+3) Disable User
+4) Password Reset
+5) Employee Logon Access
+
