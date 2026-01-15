@@ -35,3 +35,4 @@ Michael Kyle has gotten lock out do to forgeting his password. I was able to set
 <h2> Disable User </h2>
 Michael Kyle is a vendor who contract has ended for the time being. Today I am going to disable his account so he does not have access to our systems
 
+![image alt](https://github.com/MichaelBerry-CyberPro/Active-Directory-Actions-/blob/main/Disable%20Account%20.png)
